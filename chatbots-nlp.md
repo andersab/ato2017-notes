@@ -13,6 +13,7 @@ force humans to interact with a bot
 botpress.io - OSS deployable architecture
 meya.ai -> good community and service
 
-
+smooch -> a way to have insight into players
+stack -> used to talk directly to players
 
 
